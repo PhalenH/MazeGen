@@ -1,5 +1,17 @@
 # MazeGen
 
+## Links and Screenshot
+- Click here to access the Github Repo: [Github](https://github.com/IsaacJCarnes/MazeGen.git)
+
+- Click here to access the deployed link: [Webpage](https://isaacjcarnes.github.io/MazeGen/)
+
+![Landing Page for Maze Runner](./assets/images/final-screenshot.png)
+## Table of Contents
+- [Description](#Description)
+- [Pages](#Pages)
+- [Resources](#Resources)
+- [Contributors](#Contributors)
+
 ## Description
 The webpage is a maze game where user can test their skills to traverse through a set of fixed mazes and try and complete it in the fastest possible time.
 
@@ -137,13 +149,6 @@ APIs:
 
 [ACNH](https://acnhapi.com/v1/villagers)
 - This API was used to generate a random animal character that a user will play as when playing Maze Runner
-
-## Links and Screenshot
-- Click here to access the Github Repo: [Github](https://github.com/IsaacJCarnes/MazeGen.git)
-
-- Click here to access the deployed link: [Webpage](https://isaacjcarnes.github.io/MazeGen/)
-
-![Landing Page for Maze Runner](./assets/images/final-screenshot.png)
 
 ## Contributors
 Phalen:  
