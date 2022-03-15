@@ -146,6 +146,15 @@ APIs:
 ![Landing Page for Maze Runner](./assets/images/final-screenshot.png)
 
 ## Contributors
+Phalen:  
+- API calls for landing page gif, characters and character display, and food gif on highscores page
+- Character movement functions and keys events, checking if wall or if finished
+- Highscore HTML, styling, and JS for displaying page, responsiveness, as well as accessing items saved in local storage, 
+- Modals on landingpage for instructions and previous highscores
+- Form modal for filling out information when finished
+- Select option on landing page and functions to save and get that selected option
+- If you have any questions, or want to get in contact, email me at: phalenhazel@gmail.com
+- Checkout my [Github here](https://github.com/PhalenH)
 
 Adriana: 
 - Landing page index.html 
@@ -154,15 +163,6 @@ Adriana:
 - Fade in and shaken of the character using Uikit
 - Readme.md
 - Checkout my [Github here](https://github.com/AdrianaBroadnax)
-
-Phalen:  
-- API calls for landing page gif, characters and character display, and food gif on highscores page
-- Character movement functions and keys events, checking if wall or if finished
-- Highscore HTML, styling, and JS for displaying page, responsiveness, as well as accessing items saved in local storage, 
-- Modals on landingpage for instructions and previous highscores
-- Form modal for filling out information when finished
-- Select option on landing page and functions to save and get that selected option
-- Checkout my [Github here](https://github.com/PhalenH)
 
 Isaac:
 - Maze creation functions (game.js)
